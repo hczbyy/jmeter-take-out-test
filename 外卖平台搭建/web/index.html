@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>外卖点餐平台</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Microsoft Yahei", sans-serif;
+        }
+        body {
+            background-color: #f5f5f5;
+            padding-bottom: 80px;
+        }
+        /* 顶部导航 */
+        .nav {
+            background: #ff4757;
+            color: white;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            padding: 0 20px;
+            gap: 20px;
+            position: sticky;
+            top: 0;
+            z-index: 99;
+        }
+        .nav a {
+            color: white;
+            text-decoration: none;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .nav a:hover {
+            text-decoration: underline;
+        }
+        /* 页面容器 默认隐藏 */
+        .page {
+            display: none;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            min-height: calc(100vh - 120px);
+        }
+        .page.active {
+            display: block;
+        }
+        /* 商品列表布局 */
+        .food-wrap {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            gap: 16px;
+            margin-top: 20px;
+        }
+        .food-card {
+            background: white;
+            border-radius: 10px;
+            padding: 12px;
+            box-shadow: 0 2px 8px #eee;
+        }
+        .food-card h3 {
+            font-size: 16px;
+            margin: 6px 0;
+        }
+        .price {
+            color: #ff4757;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .food-card p {
+            color: #666;
+            font-size: 13px;
+            margin: 4px 0;
+        }
+        .btn {
+            padding: 6px 12px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 4px 2px;
+        }
+        .btn-red {
+            background: #ff4757;
+            color: white;
+        }
+        .btn-gray {
+            background: #ccc;
+        }
+        /* 登录注册表单 */
+        .form-box {
+            max-width: 400px;
+            margin: 30px auto;
+            background: white;
+            padding: 24px;
+            border-radius: 10px;
+        }
+        .form-box input {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .tip {
+            color: red;
+            margin: 10px 0;
+        }
+        /* 修复注册链接点击失效 */
+        .form-box a {
+            cursor: pointer;
+            z-index: 10;
+            position: relative;
+            color: #0066cc;
+            text-decoration: underline;
+        }
+        /* 底部导航 */
+        .footer-nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            background: white;
+            display: flex;
+            height: 60px;
+            border-top: 1px solid #eee;
+        }
+        .footer-nav div {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .footer-nav div:hover {
+            background: #f0f0f0;
+        }
+        .order-item, .cart-item {
+            background: white;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 顶部导航 -->
+    <div class="nav">
+        <h2>外卖点餐</h2>
+        <a onclick="switchPage('home')">首页</a>
+        <a onclick="switchPage('login')" id="loginNav">登录/注册</a>
+        <a onclick="switchPage('admin')" id="adminNav" style="display:none;">商家后台</a>
+    </div>
+
+    <!-- 首页（修复空白，自带加载提示） -->
+    <div class="page" id="home">
+        <h2>全部美食</h2>
+        <input id="searchKey" placeholder="搜索美食" style="padding:8px;width:300px;" oninput="loadFoods()">
+        <div class="food-wrap" id="foodList">
+            <p style="text-align:center;margin-top:60px;color:#666;font-size:18px;">正在加载商品数据……</p>
+        </div>
+    </div>
+
+    <!-- 登录页（修复注册跳转链接可点击） -->
+    <div class="page" id="login">
+        <div class="form-box">
+            <h3>登录</h3>
+            <input placeholder="用户名" id="loginUser">
+            <input placeholder="密码" type="password" id="loginPwd">
+            <div class="tip" id="loginTip"></div>
+            <button class="btn btn-red" onclick="login()">登录</button>
+            <p style="margin-top:10px;">没有账号？<a href="javascript:void(0)" onclick="switchPage('register')">去注册</a></p>
+        </div>
+    </div>
+
+    <!-- 注册页 -->
+    <div class="page" id="register">
+        <div class="form-box">
+            <h3>注册账号</h3>
+            <input placeholder="用户名(至少3位)" id="regUser">
+            <input placeholder="密码(至少6位)" type="password" id="regPwd">
+            <input placeholder="手机号" id="regPhone">
+            <div class="tip" id="regTip"></div>
+            <button class="btn btn-red" onclick="register()">注册</button>
+            <p style="margin-top:10px;">已有账号？<a href="javascript:void(0)" onclick="switchPage('login')">去登录</a></p>
+        </div>
+    </div>
+
+    <!-- 购物车 -->
+    <div class="page" id="cart">
+        <h2>我的购物车</h2>
+        <div id="cartList"></div>
+        <div id="cartTotal"></div>
+        <button class="btn btn-red" onclick="createOrder()">提交订单</button>
+    </div>
+
+    <!-- 我的订单 -->
+    <div class="page" id="order">
+        <h2>我的订单</h2>
+        <div id="orderList"></div>
+    </div>
+
+    <!-- 收藏 -->
+    <div class="page" id="fav">
+        <h2>我的收藏</h2>
+        <div class="food-wrap" id="favList"></div>
+    </div>
+
+    <!-- 个人中心 -->
+    <div class="page" id="user">
+        <h2>个人信息</h2>
+        <div id="userInfo"></div>
+        <h3 style="margin-top:20px;">收货地址</h3>
+        <input placeholder="新增收货地址" id="newAddr">
+        <button class="btn btn-red" onclick="addAddress()">添加</button>
+        <div id="addrList"></div>
+    </div>
+
+    <!-- 商家后台 -->
+    <div class="page" id="admin">
+        <h2>商家订单管理（仅admin账号可用）</h2>
+        <div id="adminOrderList"></div>
+    </div>
+
+    <!-- 底部导航 -->
+    <div class="footer-nav">
+        <div onclick="switchPage('home')">首页</div>
+        <div onclick="switchPage('cart')">购物车</div>
+        <div onclick="switchPage('order')">订单</div>
+        <div onclick="switchPage('fav')">收藏</div>
+        <div onclick="switchPage('user')">我的</div>
+    </div>
+
+    <script>
+        // 后端接口地址
+        const baseUrl = "http://127.0.0.1:8080/api";
+        let token = localStorage.getItem("token") || "";
+        let username = localStorage.getItem("username") || "";
+
+        // 页面切换
+        function switchPage(pageId) {
+            document.querySelectorAll(".page").forEach(p => p.classList.remove("active"));
+            document.getElementById(pageId).classList.add("active");
+            // 切换页面自动加载对应数据
+            if(pageId === "home") loadFoods();
+            if(pageId === "cart") loadCart();
+            if(pageId === "order") loadOrders();
+            if(pageId === "fav") loadFav();
+            if(pageId === "user") loadUserInfo();
+            if(pageId === "admin") loadAdminOrders();
+        }
+
+        // 页面初始化（修复刷新首页空白，强制加载商品）
+        window.onload = async function(){
+            // 默认打开首页
+            document.querySelectorAll(".page").forEach(p => p.classList.remove("active"));
+            document.getElementById("home").classList.add("active");
+            // 强制执行商品加载
+            await loadFoods();
+            // 更新登录状态显示
+            if(token && username){
+                document.getElementById("loginNav").innerText = username;
+                if(username === "admin") document.getElementById("adminNav").style.display = "block";
+            }
+        }
+
+        // 加载美食列表（加固捕获异常，打印调试日志）
+        async function loadFoods(){
+            console.log("【调试】执行loadFoods加载商品");
+            try {
+                let key = "";
+                const searchInput = document.getElementById("searchKey");
+                if(searchInput) key = searchInput.value;
+                const reqUrl = `${baseUrl}/foods?keyword=${encodeURIComponent(key)}`;
+                console.log("【调试】请求商品接口地址：", reqUrl);
+
+                const res = await fetch(reqUrl);
+                const result = await res.json();
+                console.log("【调试】商品接口返回数据：", result);
+
+                const foodWrap = document.getElementById("foodList");
+                // 无数据兜底提示
+                if(!result.data || result.data.length === 0){
+                    foodWrap.innerHTML = "<p style='text-align:center;margin-top:60px;color:#999;font-size:18px'>暂无美食商品</p>";
+                    return;
+                }
+                // 渲染商品卡片
+                let html = "";
+                result.data.forEach(food=>{
+                    html += `
+                    <div class="food-card">
+                        <div style="font-size:40px;">${food.image || "🍜"}</div>
+                        <h3>${food.name}</h3>
+                        <p>店铺：${food.shop || "未知店铺"}</p>
+                        <p>评分：${food.rating || 0} | 销量${food.sales || 0}</p>
+                        <div class="price">¥${food.price}</div>
+                        <button class="btn btn-red" onclick="addCart(${food.id})">加入购物车</button>
+                        <button class="btn btn-gray" onclick="toggleFav(${food.id})">收藏</button>
+                    </div>
+                    `
+                })
+                foodWrap.innerHTML = html;
+            } catch(err) {
+                console.error("【错误】加载商品失败：",err);
+                document.getElementById("foodList").innerHTML = "<p style='text-align:center;margin-top:60px;color:red;font-size:18px'>商品加载失败，请确认后端服务 http://127.0.0.1:8080 已启动</p>";
+            }
+        }
+
+        // 登录函数（登录成功存入localStorage，解决控制台token为null）
+        async function login(){
+            try {
+                let user = document.getElementById("loginUser").value.trim();
+                let pwd = document.getElementById("loginPwd").value.trim();
+                let tip = document.getElementById("loginTip");
+                tip.innerText = "";
+                if(!user || !pwd){
+                    tip.innerText = "账号密码不能为空";
+                    return;
+                }
+                const res = await fetch(`${baseUrl}/login`,{
+                    method:"POST",
+                    headers:{"Content-Type":"application/json"},
+                    body:JSON.stringify({username:user,password:pwd})
+                })
+                const data = await res.json();
+                if(data.code !== 0){
+                    tip.innerText = data.msg;
+                    return;
+                }
+                // 存储登录凭证到本地存储
+                localStorage.setItem("token",data.data.token);
+                localStorage.setItem("username",data.data.username);
+                token = data.data.token;
+                username = data.data.username;
+                alert("登录成功");
+                location.reload();
+            } catch(err) {
+                console.error("登录请求异常",err);
+                alert("网络异常，请检查后端服务是否启动");
+            }
+        }
+
+        // 注册函数（修复注册交互，完善表单校验）
+        async function register(){
+            try {
+                let user = document.getElementById("regUser").value.trim();
+                let pwd = document.getElementById("regPwd").value.trim();
+                let phone = document.getElementById("regPhone").value.trim();
+                let tip = document.getElementById("regTip");
+                tip.innerText = "";
+                // 前端表单校验
+                if(user.length < 3) {
+                    tip.innerText = "用户名至少3位";
+                    return;
+                }
+                if(pwd.length < 6) {
+                    tip.innerText = "密码至少6位";
+                    return;
+                }
+                if(!/^1[3-9]\d{9}$/.test(phone)) {
+                    tip.innerText = "手机号格式不正确";
+                    return;
+                }
+                // 发起注册请求
+                const res = await fetch(`${baseUrl}/register`,{
+                    method:"POST",
+                    headers:{"Content-Type":"application/json"},
+                    body:JSON.stringify({username:user,password:pwd,phone})
+                })
+                const data = await res.json();
+                if(data.code !==0){
+                    tip.innerText = data.msg;
+                    return;
+                }
+                alert("注册成功，请登录");
+                switchPage("login");
+                // 清空输入框
+                document.getElementById("regUser").value = "";
+                document.getElementById("regPwd").value = "";
+                document.getElementById("regPhone").value = "";
+            } catch(err) {
+                console.error("注册接口请求失败",err);
+                alert("注册失败：后端未启动/跨域报错，请确认8080服务正常运行");
+            }
+        }
+
+        // 加入购物车
+        async function addCart(foodId){
+            try {
+                if(!token){
+                    alert("请先登录");
+                    switchPage("login");
+                    return;
+                }
+                await fetch(`${baseUrl}/cart`,{
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json",
+                        "Authorization":`Bearer ${token}`
+                    },
+                    body:JSON.stringify({food_id:foodId,quantity:1})
+                })
+                alert("加入购物车成功");
+            } catch(err) {
+                console.error("加购失败",err);
+                alert("操作失败，请重试");
+            }
+        }
+
+        // 加载购物车
+        async function loadCart(){
+            try {
+                if(!token){
+                    document.getElementById("cartList").innerHTML = "<p>请先登录</p>";
+                    return;
+                }
+                const res = await fetch(`${baseUrl}/cart`,{
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                const data = await res.json();
+                let html = "";
+                data.data.items.forEach(item=>{
+                    html += `
+                    <div class="cart-item">
+                        <span style="font-size:30px">${item.image}</span>
+                        <h4>${item.name}</h4>
+                        <p>单价¥${item.price} × ${item.quantity} = ¥${item.subtotal}</p>
+                        <button class="btn btn-gray" onclick="changeCartNum(${item.id},${item.quantity-1})">-</button>
+                        <button class="btn btn-red" onclick="changeCartNum(${item.id},${item.quantity+1})">+</button>
+                    </div>
+                    `
+                })
+                document.getElementById("cartList").innerHTML = html;
+                document.getElementById("cartTotal").innerHTML = `<h3>合计：¥${data.data.total}</h3>`;
+            } catch(err) {
+                console.error("加载购物车失败",err);
+            }
+        }
+
+        // 修改购物车数量
+        async function changeCartNum(foodId,num){
+            try {
+                await fetch(`${baseUrl}/cart`,{
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json",
+                        "Authorization":`Bearer ${token}`
+                    },
+                    body:JSON.stringify({food_id:foodId,quantity:num})
+                })
+                loadCart();
+            } catch(err) {
+                console.error("修改数量失败",err);
+            }
+        }
+
+        // 提交订单
+        async function createOrder(){
+            try {
+                let addr = prompt("请输入收货地址");
+                if(!addr) return;
+                const cartRes = await fetch(`${baseUrl}/cart`,{headers:{"Authorization":`Bearer ${token}`}})
+                const cartData = await cartRes.json();
+                const items = cartData.data.items.map(i=>({food_id:i.id,quantity:i.quantity}));
+                const res = await fetch(`${baseUrl}/orders`,{
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json",
+                        "Authorization":`Bearer ${token}`
+                    },
+                    body:JSON.stringify({items,address:addr,remark:"无",coupon_code:""})
+                })
+                const data = await res.json();
+                if(data.code !==0){
+                    alert(data.msg);
+                    return;
+                }
+                alert(`下单成功，订单号：${data.data.id}`);
+                switchPage("order");
+            } catch(err) {
+                console.error("创建订单失败",err);
+                alert("下单失败，请检查服务");
+            }
+        }
+
+        // 加载我的订单
+        async function loadOrders(){
+            try {
+                if(!token){
+                    document.getElementById("orderList").innerHTML = "<p>请先登录</p>";
+                    return;
+                }
+                const res = await fetch(`${baseUrl}/orders`,{
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                const data = await res.json();
+                let html = "";
+                data.data.forEach(order=>{
+                    let itemHtml = "";
+                    order.items.forEach(i=>{
+                        itemHtml += `${i.food.name} ×${i.quantity} `
+                    })
+                    html += `
+                    <div class="order-item">
+                        <h4>订单号：${order.id} | 状态：${order.status}</h4>
+                        <p>商品：${itemHtml}</p>
+                        <p>原价：${order.total_price} 优惠：${order.discount} 实付：${order.final_price}</p>
+                        <p>地址：${order.address}</p>
+                        ${order.status==="待接单" ? `<button class="btn btn-gray" onclick="cancelOrder(${order.id})">取消订单</button>`:""}
+                        ${order.status==="待接单" && !order.paid ? `<button class="btn btn-red" onclick="payOrder(${order.id})">去支付</button>`:""}
+                    </div>
+                    `
+                })
+                document.getElementById("orderList").innerHTML = html;
+            } catch(err) {
+                console.error("加载订单失败",err);
+            }
+        }
+
+        // 取消订单
+        async function cancelOrder(orderId){
+            try {
+                await fetch(`${baseUrl}/orders/${orderId}/cancel`,{
+                    method:"POST",
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                loadOrders();
+            } catch(err) {
+                console.error("取消订单失败",err);
+            }
+        }
+
+        // 支付订单
+        async function payOrder(orderId){
+            try {
+                await fetch(`${baseUrl}/orders/${orderId}/pay`,{
+                    method:"POST",
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                alert("支付成功");
+                loadOrders();
+            } catch(err) {
+                console.error("支付失败",err);
+            }
+        }
+
+        // 收藏/取消收藏
+        async function toggleFav(foodId){
+            try {
+                if(!token){
+                    alert("请先登录");
+                    switchPage("login");
+                    return;
+                }
+                await fetch(`${baseUrl}/favorites`,{
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json",
+                        "Authorization":`Bearer ${token}`
+                    },
+                    body:JSON.stringify({food_id:foodId})
+                })
+                alert("操作成功");
+            } catch(err) {
+                console.error("收藏失败",err);
+            }
+        }
+
+        // 加载收藏列表
+        async function loadFav(){
+            try {
+                if(!token){
+                    document.getElementById("favList").innerHTML = "<p>请先登录</p>";
+                    return;
+                }
+                const res = await fetch(`${baseUrl}/favorites`,{
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                const data = await res.json();
+                let html = "";
+                data.data.forEach(food=>{
+                    html += `
+                    <div class="food-card">
+                        <div style="font-size:40px;">${food.image}</div>
+                        <h3>${food.name}</h3>
+                        <div class="price">¥${food.price}</div>
+                        <button class="btn btn-red" onclick="addCart(${food.id})">加入购物车</button>
+                        <button class="btn btn-gray" onclick="toggleFav(${food.id})">取消收藏</button>
+                    </div>
+                    `
+                })
+                document.getElementById("favList").innerHTML = html;
+            } catch(err) {
+                console.error("加载收藏失败",err);
+            }
+        }
+
+        // 个人信息页面
+        async function loadUserInfo(){
+            try {
+                if(!token){
+                    document.getElementById("userInfo").innerHTML = "<p>请先登录</p>";
+                    return;
+                }
+                const res = await fetch(`${baseUrl}/user/info`,{
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                const data = await res.json();
+                const u = data.data;
+                document.getElementById("userInfo").innerHTML = `
+                    <p>用户名：${u.username}</p>
+                    <p>手机号：${u.phone||"未填写"}</p>
+                    <p>注册时间：${u.created_at}</p>
+                `
+                // 加载收货地址
+                const addrRes = await fetch(`${baseUrl}/user/addresses`,{headers:{"Authorization":`Bearer ${token}`}})
+                const addrData = await addrRes.json();
+                let addrHtml = "";
+                addrData.data.forEach(a=>{
+                    addrHtml += `<p>${a.address} ${a.is_default?"(默认)":""}</p>`
+                })
+                document.getElementById("addrList").innerHTML = addrHtml;
+            } catch(err) {
+                console.error("加载个人信息失败",err);
+            }
+        }
+
+        // 新增收货地址
+        async function addAddress(){
+            try {
+                let addr = document.getElementById("newAddr").value.trim();
+                if(!addr) return alert("地址不能为空");
+                await fetch(`${baseUrl}/user/address`,{
+                    method:"POST",
+                    headers:{
+                        "Content-Type":"application/json",
+                        "Authorization":`Bearer ${token}`
+                    },
+                    body:JSON.stringify({address:addr})
+                })
+                loadUserInfo();
+                document.getElementById("newAddr").value = "";
+            } catch(err) {
+                console.error("新增地址失败",err);
+            }
+        }
+
+        // 商家后台订单
+        async function loadAdminOrders(){
+            try {
+                if(!token || username !== "admin"){
+                    document.getElementById("adminOrderList").innerHTML = "<p>仅admin账号可访问</p>";
+                    return;
+                }
+                const res = await fetch(`${baseUrl}/admin/orders`,{
+                    headers:{"Authorization":`Bearer ${token}`}
+                })
+                const data = await res.json();
+                let html = "";
+                data.data.forEach(order=>{
+                    html += `
+                    <div class="order-item">
+                        <h4>订单${order.id} 用户：${order.username} 当前状态：${order.status}</h4>
+                        <select id="status${order.id}">
+                            <option value="待接单">待接单</option>
+                            <option value="配送中">配送中</option>
+                            <option value="已完成">已完成</option>
+                            <option value="已取消">已取消</option>
+                        </select>
+                        <button class="btn btn-red" onclick="updateOrderStatus(${order.id})">更新状态</button>
+                    </div>
+                    `
+                })
+                document.getElementById("adminOrderList").innerHTML = html;
+            } catch(err) {
+                console.error("商家订单加载失败",err);
+            }
+        }
+
+        // 修改订单状态
+        async function updateOrderStatus(orderId){
+            try {
+                let status = document.getElementById(`status${orderId}`).value;
+                await fetch(`${baseUrl}/admin/orders/${orderId}/status`,{
+                    method:"PUT",
+                    headers:{
+                        "Content-Type":"application/json",
+                        "Authorization":`Bearer ${token}`
+                    },
+                    body:JSON.stringify({status})
+                })
+                loadAdminOrders();
+            } catch(err) {
+                console.error("更新订单状态失败",err);
+            }
+        }
+    </script>
+</body>
+</html>

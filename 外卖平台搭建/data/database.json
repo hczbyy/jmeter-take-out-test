@@ -1,0 +1,5393 @@
+{
+  "users": {
+    "17877197870": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "17877197879",
+      "phone": "",
+      "balance": 0,
+      "created_at": "2026-07-14T20:44:23.777696",
+      "token": "743434fd-9969-4918-adef-8035e91c2d45",
+      "last_login": "2026-07-16T13:18:41.047375"
+    },
+    "admin": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "admin",
+      "phone": "",
+      "balance": 0,
+      "created_at": "2026-07-14T20:48:15.322779",
+      "token": "91c2159e-7261-467f-9cbb-a283cdb3eb8a",
+      "last_login": "2026-07-16T15:59:04.138750"
+    },
+    "17877197879": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "17877197879",
+      "phone": "17877197879",
+      "balance": 0,
+      "created_at": "2026-07-16T13:24:46.574341",
+      "token": "e23b4d49-54df-4590-a5ed-c7db1a426e47",
+      "last_login": "2026-07-24T14:50:01.258635"
+    },
+    "19715851239": {
+      "password": "8c3ecb6475155eac51e63e1c875865fa849ac768e443ee86aa0d7dbc1651218d",
+      "username": "19715851239",
+      "phone": "19715851239",
+      "balance": 0,
+      "created_at": "2026-07-16T13:30:07.489444",
+      "token": "2c920c98-e103-4dfa-ba63-8824643d454d",
+      "last_login": "2026-07-16T15:59:55.435603"
+    },
+    "15977719613": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719613",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.379095",
+      "token": "552e4d72-1dd6-4a6f-ae2b-69bba2f60348",
+      "last_login": "2026-07-21T19:00:17.977681"
+    },
+    "admin' or '1'='1": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "admin' or '1'='1",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.379095"
+    },
+    "15977719612": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719612",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.420701",
+      "token": "c16fdeee-55a8-4b87-a418-7cfd31f76b43",
+      "last_login": "2026-07-21T19:00:18.033973"
+    },
+    "<script>alert(1)</script>": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "<script>alert(1)</script>",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.420701"
+    },
+    "15977719611": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719611",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.452805",
+      "token": "a172dc10-da13-4e46-8221-3a9e4ab6de9c",
+      "last_login": "2026-07-21T19:00:18.103316"
+    },
+    "user@#$%": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "user@#$%",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.468476"
+    },
+    "15977719610": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719610",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.499992",
+      "token": "a1c56c8c-0530-40aa-9362-dfdf5b87e802",
+      "last_login": "2026-07-21T19:00:18.173227"
+    },
+    "user name": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "user name",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.499992"
+    },
+    "15977719609": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719609",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.534641",
+      "token": "c999d64d-8138-48a9-a27c-cc7072fbb77c",
+      "last_login": "2026-07-21T19:00:18.232532"
+    },
+    "user-name_123": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "user-name_123",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.534641"
+    },
+    "15977719608": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719608",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.568892",
+      "token": "60a241fd-9281-4685-9bc6-30fa660676f7",
+      "last_login": "2026-07-21T19:00:18.309088"
+    },
+    "张三123": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "张三123",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.568892"
+    },
+    "１２３４５６": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "１２３４５６",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.595183"
+    },
+    "15977719607": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719607",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.595183",
+      "token": "abc2dd40-2212-4225-8493-cb88ad32b2e7",
+      "last_login": "2026-07-21T19:00:18.394760"
+    },
+    "15977719606": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719606",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.642748",
+      "token": "2e850a1f-26da-42d3-bdfb-743abc3fe773",
+      "last_login": "2026-07-21T19:00:18.465912"
+    },
+    "test": {
+      "password": "9e11121dd5e82edfd3cb6a4923f9d592f858f2cca8a40a98ad0ce449db09d5a4",
+      "username": "test",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.642748"
+    },
+    "15977719605": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719605",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.690218",
+      "token": "b560879c-282b-4e92-ba68-8b35043813d0",
+      "last_login": "2026-07-21T19:00:17.737723"
+    },
+    "15977719604": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719604",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.737553",
+      "token": "72f3c36c-4927-4f73-8647-256d440c25d9",
+      "last_login": "2026-07-21T19:00:17.793164"
+    },
+    "!@#$%^&*": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "!@#$%^&*",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.771376"
+    },
+    "15977719603": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719603",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.778664",
+      "token": "c7134706-cb75-44a8-be7d-b472835315a4",
+      "last_login": "2026-07-21T19:00:17.853750"
+    },
+    "null": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "null",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.801275"
+    },
+    "15977719602": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "15977719602",
+      "phone": "15977719613",
+      "balance": 0,
+      "created_at": "2026-07-18T14:20:35.801275",
+      "token": "00f3e541-0596-4bb9-854f-cd457d55e286",
+      "last_login": "2026-07-21T19:00:17.921422"
+    },
+    "hczbyy": {
+      "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "username": "hczbyy",
+      "phone": "17877197879",
+      "balance": 0,
+      "created_at": "2026-07-22T12:52:58.675551",
+      "token": "3b2e9e83-037f-47de-990d-0cf8391c9ec7",
+      "last_login": "2026-07-22T13:08:07.182421"
+    }
+  },
+  "foods": [
+    {
+      "id": 1,
+      "name": "招牌炸鸡汉堡",
+      "shop": "麦当劳",
+      "category": "汉堡",
+      "price": 25.0,
+      "rating": 4.8,
+      "sales": 999,
+      "image": "🍔",
+      "desc": "香脆鸡腿肉+生菜+特制酱料"
+    },
+    {
+      "id": 2,
+      "name": "巨无霸汉堡",
+      "shop": "麦当劳",
+      "category": "汉堡",
+      "price": 32.0,
+      "rating": 4.7,
+      "sales": 888,
+      "image": "🍔",
+      "desc": "双层牛肉+芝士+酸黄瓜"
+    },
+    {
+      "id": 3,
+      "name": "香辣鸡腿堡",
+      "shop": "肯德基",
+      "category": "汉堡",
+      "price": 28.0,
+      "rating": 4.6,
+      "sales": 777,
+      "image": "🍔",
+      "desc": "香辣鸡腿+生菜+沙拉酱"
+    },
+    {
+      "id": 4,
+      "name": "嫩牛五方",
+      "shop": "肯德基",
+      "category": "汉堡",
+      "price": 30.0,
+      "rating": 4.7,
+      "sales": 555,
+      "image": "🌯",
+      "desc": "牛肉+生菜+番茄+酱料"
+    },
+    {
+      "id": 5,
+      "name": "麻辣香锅套餐",
+      "shop": "海底捞",
+      "category": "中餐",
+      "price": 38.0,
+      "rating": 4.9,
+      "sales": 888,
+      "image": "🌶️",
+      "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+    },
+    {
+      "id": 6,
+      "name": "酸菜鱼",
+      "shop": "太二酸菜鱼",
+      "category": "中餐",
+      "price": 58.0,
+      "rating": 4.8,
+      "sales": 666,
+      "image": "🐟",
+      "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+    },
+    {
+      "id": 7,
+      "name": "烤鸭套餐",
+      "shop": "全聚德",
+      "category": "中餐",
+      "price": 88.0,
+      "rating": 4.9,
+      "sales": 555,
+      "image": "🦆",
+      "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+    },
+    {
+      "id": 8,
+      "name": "红烧肉饭",
+      "shop": "外婆家",
+      "category": "中餐",
+      "price": 35.0,
+      "rating": 4.5,
+      "sales": 444,
+      "image": "🍖",
+      "desc": "肥而不腻，入口即化，配时蔬"
+    },
+    {
+      "id": 9,
+      "name": "宫保鸡丁",
+      "shop": "川味馆",
+      "category": "中餐",
+      "price": 32.0,
+      "rating": 4.6,
+      "sales": 333,
+      "image": "🍗",
+      "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+    },
+    {
+      "id": 10,
+      "name": "水煮牛肉",
+      "shop": "川味馆",
+      "category": "中餐",
+      "price": 45.0,
+      "rating": 4.7,
+      "sales": 222,
+      "image": "🥩",
+      "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+    },
+    {
+      "id": 11,
+      "name": "至尊披萨",
+      "shop": "必胜客",
+      "category": "披萨",
+      "price": 45.0,
+      "rating": 4.7,
+      "sales": 777,
+      "image": "🍕",
+      "desc": "培根+香肠+蘑菇+芝士，9寸"
+    },
+    {
+      "id": 12,
+      "name": "海鲜披萨",
+      "shop": "必胜客",
+      "category": "披萨",
+      "price": 52.0,
+      "rating": 4.6,
+      "sales": 333,
+      "image": "🍕",
+      "desc": "虾仁+鱿鱼+蟹柳+芝士，9寸"
+    },
+    {
+      "id": 13,
+      "name": "三文鱼寿司拼盘",
+      "shop": "寿司郎",
+      "category": "日料",
+      "price": 68.0,
+      "rating": 4.9,
+      "sales": 666,
+      "image": "🍣",
+      "desc": "新鲜三文鱼+醋饭+海苔，12贯"
+    },
+    {
+      "id": 14,
+      "name": "鳗鱼饭",
+      "shop": "寿司郎",
+      "category": "日料",
+      "price": 42.0,
+      "rating": 4.8,
+      "sales": 222,
+      "image": "🍱",
+      "desc": "蒲烧鳗鱼+米饭+蛋丝，配味增汤"
+    },
+    {
+      "id": 15,
+      "name": "牛肉拉面",
+      "shop": "兰州拉面",
+      "category": "面食",
+      "price": 18.0,
+      "rating": 4.6,
+      "sales": 555,
+      "image": "🍜",
+      "desc": "手工拉面+牛肉+香菜+清汤"
+    },
+    {
+      "id": 16,
+      "name": "炸酱面",
+      "shop": "老北京炸酱面",
+      "category": "面食",
+      "price": 22.0,
+      "rating": 4.5,
+      "sales": 333,
+      "image": "🍜",
+      "desc": "手擀面+肉酱+黄瓜丝+豆芽"
+    },
+    {
+      "id": 17,
+      "name": "重庆小面",
+      "shop": "重庆小面馆",
+      "category": "面食",
+      "price": 16.0,
+      "rating": 4.4,
+      "sales": 444,
+      "image": "🍜",
+      "desc": "麻辣鲜香，劲道爽滑，配花生碎"
+    },
+    {
+      "id": 18,
+      "name": "酸辣粉",
+      "shop": "重庆小面馆",
+      "category": "面食",
+      "price": 14.0,
+      "rating": 4.3,
+      "sales": 222,
+      "image": "🍜",
+      "desc": "酸辣开胃，粉条Q弹，配花生"
+    },
+    {
+      "id": 19,
+      "name": "珍珠奶茶",
+      "shop": "喜茶",
+      "category": "饮品",
+      "price": 22.0,
+      "rating": 4.8,
+      "sales": 444,
+      "image": "🧋",
+      "desc": "Q弹珍珠+香浓奶茶，大杯"
+    },
+    {
+      "id": 20,
+      "name": "芝士茶",
+      "shop": "喜茶",
+      "category": "饮品",
+      "price": 28.0,
+      "rating": 4.7,
+      "sales": 333,
+      "image": "🧋",
+      "desc": "咸香芝士奶盖+清茶，大杯"
+    },
+    {
+      "id": 21,
+      "name": "鲜榨果汁",
+      "shop": "鲜果时光",
+      "category": "饮品",
+      "price": 18.0,
+      "rating": 4.6,
+      "sales": 222,
+      "image": "🧃",
+      "desc": "新鲜水果现榨，可选混合"
+    },
+    {
+      "id": 22,
+      "name": "草莓蛋糕",
+      "shop": "好利来",
+      "category": "甜品",
+      "price": 32.0,
+      "rating": 4.7,
+      "sales": 199,
+      "image": "🍰",
+      "desc": "新鲜草莓+奶油蛋糕，切块"
+    },
+    {
+      "id": 23,
+      "name": "提拉米苏",
+      "shop": "好利来",
+      "category": "甜品",
+      "price": 38.0,
+      "rating": 4.8,
+      "sales": 188,
+      "image": "🍰",
+      "desc": "咖啡+马斯卡彭+可可粉，切块"
+    },
+    {
+      "id": 24,
+      "name": "芒果千层",
+      "shop": "好利来",
+      "category": "甜品",
+      "price": 35.0,
+      "rating": 4.6,
+      "sales": 166,
+      "image": "🎂",
+      "desc": "芒果+奶油+千层皮"
+    },
+    {
+      "id": 25,
+      "name": "烤串套餐",
+      "shop": "烧烤大师",
+      "category": "烧烤",
+      "price": 48.0,
+      "rating": 4.6,
+      "sales": 188,
+      "image": "🍢",
+      "desc": "羊肉串5串+鸡翅2个+烤蔬菜"
+    },
+    {
+      "id": 26,
+      "name": "烤鱼",
+      "shop": "烤鱼王",
+      "category": "烧烤",
+      "price": 68.0,
+      "rating": 4.7,
+      "sales": 166,
+      "image": "🐟",
+      "desc": "外焦里嫩，麻辣鲜香，配菜"
+    },
+    {
+      "id": 27,
+      "name": "皮蛋瘦肉粥",
+      "shop": "粥员外",
+      "category": "粥",
+      "price": 15.0,
+      "rating": 4.4,
+      "sales": 177,
+      "image": "🥣",
+      "desc": "皮蛋+瘦肉+葱花，大碗"
+    },
+    {
+      "id": 28,
+      "name": "海鲜粥",
+      "shop": "粥员外",
+      "category": "粥",
+      "price": 25.0,
+      "rating": 4.5,
+      "sales": 155,
+      "image": "🥣",
+      "desc": "虾+蟹+干贝，大碗"
+    },
+    {
+      "id": 29,
+      "name": "香菇鸡丝粥",
+      "shop": "粥员外",
+      "category": "粥",
+      "price": 18.0,
+      "rating": 4.3,
+      "sales": 133,
+      "image": "🥣",
+      "desc": "香菇+鸡丝+葱花，大碗"
+    },
+    {
+      "id": 30,
+      "name": "照烧鸡腿饭",
+      "shop": "吉野家",
+      "category": "快餐",
+      "price": 30.0,
+      "rating": 4.5,
+      "sales": 299,
+      "image": "🍱",
+      "desc": "照烧鸡腿+米饭+蔬菜"
+    },
+    {
+      "id": 31,
+      "name": "牛肉饭",
+      "shop": "吉野家",
+      "category": "快餐",
+      "price": 28.0,
+      "rating": 4.4,
+      "sales": 266,
+      "image": "🍱",
+      "desc": "肥牛+洋葱+米饭+蔬菜"
+    }
+  ],
+  "orders": {
+    "1001": {
+      "id": 1001,
+      "username": "17877197870",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 2,
+          "subtotal": 50.0
+        }
+      ],
+      "total_price": 50.0,
+      "discount": 0,
+      "final_price": 50.0,
+      "address": "18//415",
+      "remark": "无",
+      "status": "配送中",
+      "paid": true,
+      "created_at": "2026-07-14T21:12:36.523805",
+      "paid_at": "2026-07-14T21:12:44.470107"
+    },
+    "1002": {
+      "id": 1002,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T15:54:37.493969"
+    },
+    "1003": {
+      "id": 1003,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        }
+      ],
+      "total_price": 85.0,
+      "discount": 0,
+      "final_price": 85.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:00:32.927031"
+    },
+    "1004": {
+      "id": 1004,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "31·",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:07:41.513111"
+    },
+    "1005": {
+      "id": 1005,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "1",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:15:36.743554"
+    },
+    "1006": {
+      "id": 1006,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 7,
+            "name": "烤鸭套餐",
+            "shop": "全聚德",
+            "category": "中餐",
+            "price": 88.0,
+            "rating": 4.9,
+            "sales": 555,
+            "image": "🦆",
+            "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+          },
+          "quantity": 1,
+          "subtotal": 88.0
+        },
+        {
+          "food": {
+            "id": 8,
+            "name": "红烧肉饭",
+            "shop": "外婆家",
+            "category": "中餐",
+            "price": 35.0,
+            "rating": 4.5,
+            "sales": 444,
+            "image": "🍖",
+            "desc": "肥而不腻，入口即化，配时蔬"
+          },
+          "quantity": 1,
+          "subtotal": 35.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 10,
+            "name": "水煮牛肉",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 45.0,
+            "rating": 4.7,
+            "sales": 222,
+            "image": "🥩",
+            "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 45.0
+        }
+      ],
+      "total_price": 411.0,
+      "discount": 0,
+      "final_price": 411.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:19:49.150689"
+    },
+    "1007": {
+      "id": 1007,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "14214",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:20:43.683030"
+    },
+    "1008": {
+      "id": 1008,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "wq",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:40:59.606813"
+    },
+    "1009": {
+      "id": 1009,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 57.0,
+      "discount": 0,
+      "final_price": 57.0,
+      "address": "312",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T16:59:03.919827"
+    },
+    "1010": {
+      "id": 1010,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 57.0,
+      "discount": 0,
+      "final_price": 57.0,
+      "address": "1213",
+      "remark": "无",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-16T17:00:52.520006",
+      "paid_at": "2026-07-16T17:08:30.854814"
+    },
+    "1011": {
+      "id": 1011,
+      "username": "19715851239",
+      "items": [
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        }
+      ],
+      "total_price": 28.0,
+      "discount": 0,
+      "final_price": 28.0,
+      "address": "3124",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T17:24:26.444600"
+    },
+    "1012": {
+      "id": 1012,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 7,
+            "name": "烤鸭套餐",
+            "shop": "全聚德",
+            "category": "中餐",
+            "price": 88.0,
+            "rating": 4.9,
+            "sales": 555,
+            "image": "🦆",
+            "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+          },
+          "quantity": 1,
+          "subtotal": 88.0
+        },
+        {
+          "food": {
+            "id": 8,
+            "name": "红烧肉饭",
+            "shop": "外婆家",
+            "category": "中餐",
+            "price": 35.0,
+            "rating": 4.5,
+            "sales": 444,
+            "image": "🍖",
+            "desc": "肥而不腻，入口即化，配时蔬"
+          },
+          "quantity": 1,
+          "subtotal": 35.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 10,
+            "name": "水煮牛肉",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 45.0,
+            "rating": 4.7,
+            "sales": 222,
+            "image": "🥩",
+            "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 45.0
+        }
+      ],
+      "total_price": 411.0,
+      "discount": 0,
+      "final_price": 411.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T17:54:09.529159"
+    },
+    "1013": {
+      "id": 1013,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 7,
+            "name": "烤鸭套餐",
+            "shop": "全聚德",
+            "category": "中餐",
+            "price": 88.0,
+            "rating": 4.9,
+            "sales": 555,
+            "image": "🦆",
+            "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+          },
+          "quantity": 1,
+          "subtotal": 88.0
+        },
+        {
+          "food": {
+            "id": 8,
+            "name": "红烧肉饭",
+            "shop": "外婆家",
+            "category": "中餐",
+            "price": 35.0,
+            "rating": 4.5,
+            "sales": 444,
+            "image": "🍖",
+            "desc": "肥而不腻，入口即化，配时蔬"
+          },
+          "quantity": 1,
+          "subtotal": 35.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 10,
+            "name": "水煮牛肉",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 45.0,
+            "rating": 4.7,
+            "sales": 222,
+            "image": "🥩",
+            "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 45.0
+        }
+      ],
+      "total_price": 411.0,
+      "discount": 0,
+      "final_price": 411.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T17:54:59.789853"
+    },
+    "1014": {
+      "id": 1014,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 7,
+            "name": "烤鸭套餐",
+            "shop": "全聚德",
+            "category": "中餐",
+            "price": 88.0,
+            "rating": 4.9,
+            "sales": 555,
+            "image": "🦆",
+            "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+          },
+          "quantity": 1,
+          "subtotal": 88.0
+        },
+        {
+          "food": {
+            "id": 8,
+            "name": "红烧肉饭",
+            "shop": "外婆家",
+            "category": "中餐",
+            "price": 35.0,
+            "rating": 4.5,
+            "sales": 444,
+            "image": "🍖",
+            "desc": "肥而不腻，入口即化，配时蔬"
+          },
+          "quantity": 1,
+          "subtotal": 35.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 10,
+            "name": "水煮牛肉",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 45.0,
+            "rating": 4.7,
+            "sales": 222,
+            "image": "🥩",
+            "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 45.0
+        }
+      ],
+      "total_price": 411.0,
+      "discount": 0,
+      "final_price": 411.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T18:18:39.399840"
+    },
+    "1015": {
+      "id": 1015,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 7,
+            "name": "烤鸭套餐",
+            "shop": "全聚德",
+            "category": "中餐",
+            "price": 88.0,
+            "rating": 4.9,
+            "sales": 555,
+            "image": "🦆",
+            "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+          },
+          "quantity": 1,
+          "subtotal": 88.0
+        },
+        {
+          "food": {
+            "id": 8,
+            "name": "红烧肉饭",
+            "shop": "外婆家",
+            "category": "中餐",
+            "price": 35.0,
+            "rating": 4.5,
+            "sales": 444,
+            "image": "🍖",
+            "desc": "肥而不腻，入口即化，配时蔬"
+          },
+          "quantity": 1,
+          "subtotal": 35.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 10,
+            "name": "水煮牛肉",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 45.0,
+            "rating": 4.7,
+            "sales": 222,
+            "image": "🥩",
+            "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 45.0
+        }
+      ],
+      "total_price": 411.0,
+      "discount": 0,
+      "final_price": 411.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T18:27:08.223579"
+    },
+    "1016": {
+      "id": 1016,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 7,
+            "name": "烤鸭套餐",
+            "shop": "全聚德",
+            "category": "中餐",
+            "price": 88.0,
+            "rating": 4.9,
+            "sales": 555,
+            "image": "🦆",
+            "desc": "皮脆肉嫩，片片美味，配薄饼甜面酱"
+          },
+          "quantity": 1,
+          "subtotal": 88.0
+        },
+        {
+          "food": {
+            "id": 8,
+            "name": "红烧肉饭",
+            "shop": "外婆家",
+            "category": "中餐",
+            "price": 35.0,
+            "rating": 4.5,
+            "sales": 444,
+            "image": "🍖",
+            "desc": "肥而不腻，入口即化，配时蔬"
+          },
+          "quantity": 1,
+          "subtotal": 35.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 10,
+            "name": "水煮牛肉",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 45.0,
+            "rating": 4.7,
+            "sales": 222,
+            "image": "🥩",
+            "desc": "麻辣鲜香，牛肉嫩滑，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 45.0
+        }
+      ],
+      "total_price": 411.0,
+      "discount": 0,
+      "final_price": 411.0,
+      "address": "18/415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-16T18:29:12.484380"
+    },
+    "1017": {
+      "id": 1017,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "1",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-18T12:32:09.204962"
+    },
+    "1018": {
+      "id": 1018,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-18T19:19:22.855117"
+    },
+    "1019": {
+      "id": 1019,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "13",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-18T19:23:19.873018"
+    },
+    "1020": {
+      "id": 1020,
+      "username": "17877197879",
+      "items": [],
+      "total_price": 0,
+      "discount": 0,
+      "final_price": 0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-18T19:40:52.566078"
+    },
+    "1021": {
+      "id": 1021,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 2,
+          "subtotal": 50.0
+        }
+      ],
+      "total_price": 50.0,
+      "discount": 0,
+      "final_price": 50.0,
+      "address": "1·14",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-18T19:42:11.886674"
+    },
+    "1032": {
+      "id": 1032,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-18T22:20:21.986974"
+    },
+    "1034": {
+      "id": 1034,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 57.0,
+      "discount": 0,
+      "final_price": 57.0,
+      "address": "415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T12:34:14.267180"
+    },
+    "1035": {
+      "id": 1035,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T12:57:09.777551"
+    },
+    "1036": {
+      "id": 1036,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T13:04:25.098267"
+    },
+    "1040": {
+      "id": 1040,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T18:29:03.789534"
+    },
+    "1041": {
+      "id": 1041,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T18:39:23.518309"
+    },
+    "1042": {
+      "id": 1042,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T18:40:40.730486"
+    },
+    "1043": {
+      "id": 1043,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T18:57:17.124487"
+    },
+    "1044": {
+      "id": 1044,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T18:57:57.365434"
+    },
+    "1045": {
+      "id": 1045,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "q",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:00:50.158791"
+    },
+    "1046": {
+      "id": 1046,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:02:23.968732"
+    },
+    "1047": {
+      "id": 1047,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:06:05.456339"
+    },
+    "1048": {
+      "id": 1048,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:07:26.313275"
+    },
+    "1049": {
+      "id": 1049,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:10:27.561021"
+    },
+    "1050": {
+      "id": 1050,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:12:24.924659"
+    },
+    "1051": {
+      "id": 1051,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:14:43.730883"
+    },
+    "1052": {
+      "id": 1052,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:40:27.493794"
+    },
+    "1053": {
+      "id": 1053,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:42:38.309729"
+    },
+    "1054": {
+      "id": 1054,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:44:15.112859"
+    },
+    "1055": {
+      "id": 1055,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:45:37.705928"
+    },
+    "1056": {
+      "id": 1056,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:50:43.407361"
+    },
+    "1057": {
+      "id": 1057,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:52:56.160389"
+    },
+    "1058": {
+      "id": 1058,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:53:56.199430"
+    },
+    "1059": {
+      "id": 1059,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T19:55:11.292237"
+    },
+    "1060": {
+      "id": 1060,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-19T20:03:02.561818"
+    },
+    "1061": {
+      "id": 1061,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "41",
+      "remark": "无",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:04:30.648430",
+      "paid_at": "2026-07-19T20:07:34.318351"
+    },
+    "1062": {
+      "id": 1062,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:08:41.498668",
+      "paid_at": "2026-07-19T20:08:41.587636"
+    },
+    "1063": {
+      "id": 1063,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:08:59.555135",
+      "paid_at": "2026-07-19T20:08:59.630524"
+    },
+    "1064": {
+      "id": 1064,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 57.0,
+      "discount": 0,
+      "final_price": 57.0,
+      "address": "411",
+      "remark": "无",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:11:03.877739",
+      "paid_at": "2026-07-19T20:11:07.512917"
+    },
+    "1065": {
+      "id": 1065,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 32.0,
+      "discount": 0,
+      "final_price": 32.0,
+      "address": "415",
+      "remark": "无",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:11:24.287917",
+      "paid_at": "2026-07-19T20:12:52.416913"
+    },
+    "1066": {
+      "id": 1066,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:16:21.109629",
+      "paid_at": "2026-07-19T20:16:21.189263"
+    },
+    "1067": {
+      "id": 1067,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-19T20:17:40.066376",
+      "paid_at": "2026-07-19T20:17:40.181838"
+    },
+    "1068": {
+      "id": 1068,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 57.0,
+      "discount": 0,
+      "final_price": 57.0,
+      "address": "415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-20T20:16:51.101720"
+    },
+    "1069": {
+      "id": 1069,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        }
+      ],
+      "total_price": 153.0,
+      "discount": 0,
+      "final_price": 153.0,
+      "address": "415",
+      "remark": "",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-21T19:12:06.303527"
+    },
+    "1070": {
+      "id": 1070,
+      "username": "17877197879",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        },
+        {
+          "food": {
+            "id": 3,
+            "name": "香辣鸡腿堡",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 28.0,
+            "rating": 4.6,
+            "sales": 777,
+            "image": "🍔",
+            "desc": "香辣鸡腿+生菜+沙拉酱"
+          },
+          "quantity": 1,
+          "subtotal": 28.0
+        },
+        {
+          "food": {
+            "id": 4,
+            "name": "嫩牛五方",
+            "shop": "肯德基",
+            "category": "汉堡",
+            "price": 30.0,
+            "rating": 4.7,
+            "sales": 555,
+            "image": "🌯",
+            "desc": "牛肉+生菜+番茄+酱料"
+          },
+          "quantity": 1,
+          "subtotal": 30.0
+        },
+        {
+          "food": {
+            "id": 5,
+            "name": "麻辣香锅套餐",
+            "shop": "海底捞",
+            "category": "中餐",
+            "price": 38.0,
+            "rating": 4.9,
+            "sales": 888,
+            "image": "🌶️",
+            "desc": "麻辣鲜香，配料丰富，可选荤素搭配"
+          },
+          "quantity": 1,
+          "subtotal": 38.0
+        },
+        {
+          "food": {
+            "id": 6,
+            "name": "酸菜鱼",
+            "shop": "太二酸菜鱼",
+            "category": "中餐",
+            "price": 58.0,
+            "rating": 4.8,
+            "sales": 666,
+            "image": "🐟",
+            "desc": "酸爽开胃，鱼肉鲜嫩，配菜丰富"
+          },
+          "quantity": 1,
+          "subtotal": 58.0
+        },
+        {
+          "food": {
+            "id": 9,
+            "name": "宫保鸡丁",
+            "shop": "川味馆",
+            "category": "中餐",
+            "price": 32.0,
+            "rating": 4.6,
+            "sales": 333,
+            "image": "🍗",
+            "desc": "麻辣鲜香，鸡丁嫩滑，花生酥脆"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 243.0,
+      "discount": 0,
+      "final_price": 243.0,
+      "address": "415",
+      "remark": "无",
+      "status": "待接单",
+      "paid": false,
+      "created_at": "2026-07-22T11:42:22.485087"
+    },
+    "1071": {
+      "id": 1071,
+      "username": "hczbyy",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        },
+        {
+          "food": {
+            "id": 2,
+            "name": "巨无霸汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 32.0,
+            "rating": 4.7,
+            "sales": 888,
+            "image": "🍔",
+            "desc": "双层牛肉+芝士+酸黄瓜"
+          },
+          "quantity": 1,
+          "subtotal": 32.0
+        }
+      ],
+      "total_price": 57.0,
+      "discount": 0,
+      "final_price": 57.0,
+      "address": "415",
+      "remark": "无",
+      "status": "已取消",
+      "paid": false,
+      "created_at": "2026-07-22T13:35:36.155634"
+    },
+    "1072": {
+      "id": 1072,
+      "username": "hczbyy",
+      "items": [
+        {
+          "food": {
+            "id": 1,
+            "name": "招牌炸鸡汉堡",
+            "shop": "麦当劳",
+            "category": "汉堡",
+            "price": 25.0,
+            "rating": 4.8,
+            "sales": 999,
+            "image": "🍔",
+            "desc": "香脆鸡腿肉+生菜+特制酱料"
+          },
+          "quantity": 1,
+          "subtotal": 25.0
+        }
+      ],
+      "total_price": 25.0,
+      "discount": 0,
+      "final_price": 25.0,
+      "address": "415",
+      "remark": "无",
+      "status": "支付成功",
+      "paid": true,
+      "created_at": "2026-07-22T13:39:46.652913",
+      "paid_at": "2026-07-22T13:39:49.002676"
+    }
+  },
+  "favorites": {
+    "17877197870": [
+      1
+    ],
+    "17877197879": [
+      11
+    ],
+    "hczbyy": []
+  },
+  "coupons": {
+    "17877197870": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-13T20:44:23.777696"
+      }
+    ],
+    "admin": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-13T20:48:15.322779"
+      }
+    ],
+    "regtest0003": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T13:06:20.022743"
+      }
+    ],
+    "regtest0004": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T13:06:20.038799"
+      }
+    ],
+    "regtest0005": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T15:14:49.739889"
+      }
+    ],
+    "regtest0008": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T13:06:20.038799"
+      }
+    ],
+    "regtest0009": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T13:06:20.054583"
+      }
+    ],
+    "regtest0010": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T13:06:20.054583"
+      }
+    ],
+    "abc": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T16:16:33.273012"
+      }
+    ],
+    "testuser": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-14T16:16:33.273012"
+      }
+    ],
+    "17877197879": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-15T13:24:46.574341"
+      }
+    ],
+    "19715851239": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-15T13:30:07.489444"
+      }
+    ],
+    "12451": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T13:14:32.999391"
+      }
+    ],
+    "15977719613": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.379095"
+      }
+    ],
+    "15977719612": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.420701"
+      }
+    ],
+    "15977719611": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.452805"
+      }
+    ],
+    "15977719610": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.499992"
+      }
+    ],
+    "15977719609": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.534641"
+      }
+    ],
+    "15977719608": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.568892"
+      }
+    ],
+    "15977719607": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.595183"
+      }
+    ],
+    "15977719606": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.642748"
+      }
+    ],
+    "15977719605": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.690218"
+      }
+    ],
+    "15977719604": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.737553"
+      }
+    ],
+    "15977719603": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.778664"
+      }
+    ],
+    "15977719602": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.801275"
+      }
+    ],
+    "!@#$%^&*": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.771376"
+      }
+    ],
+    "null": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.801275"
+      }
+    ],
+    "admin' or '1'='1": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.379095"
+      }
+    ],
+    "<script>alert(1)</script>": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.420701"
+      }
+    ],
+    "user@#$%": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.468476"
+      }
+    ],
+    "user name": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.499992"
+      }
+    ],
+    "user-name_123": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.534641"
+      }
+    ],
+    "张三123": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.568892"
+      }
+    ],
+    "１２３４５６": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.595183"
+      }
+    ],
+    "test": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-17T14:20:35.642748"
+      }
+    ],
+    "hczbyy": [
+      {
+        "id": 1,
+        "code": "NEWUSER",
+        "discount": 10,
+        "min_amount": 30,
+        "desc": "新用户立减10元",
+        "used": false,
+        "expire": "2026-08-21T12:52:58.675551"
+      }
+    ]
+  },
+  "reviews": [],
+  "cart": {
+    "17877197870": {
+      "1": 1,
+      "2": 1,
+      "None": 1,
+      "9": 1
+    },
+    "17877197879": {
+      "1": 1,
+      "2": 1
+    },
+    "19715851239": {},
+    "hczbyy": {}
+  },
+  "current_order_id": 1072,
+  "payment_records": {},
+  "addresses": {
+    "admin": [
+      {
+        "id": 1,
+        "address": "18/415",
+        "is_default": true
+      }
+    ],
+    "17877197870": [
+      {
+        "id": 1,
+        "address": "18/415",
+        "is_default": true
+      },
+      {
+        "id": 2,
+        "address": "18/415",
+        "is_default": false
+      }
+    ]
+  }
+}
